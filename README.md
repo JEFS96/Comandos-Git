@@ -3,8 +3,6 @@
 ### Atalhos
 - Cria a branch e já navega para ela
 > git checkout -b nomeBranch 
-- equivalente a "git add ." e "git commit -m" juntos
-> git commit -am "commit message"
 
 ### Configuração inicial: definir nome e email de usuário
 - git config --global user.name "NomeDeUsuário"
